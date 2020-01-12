@@ -10,4 +10,7 @@ Sample website with plenty of files for demos
 Git practice repo.
 
 ## Purpose
-Soe dummy text abcdefghjtreew
+Soe dummy text argksjdk
+
+## Deployment
+Hello
