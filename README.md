@@ -9,4 +9,5 @@ Sample website with plenty of files for demos
 ## Introduction
 Git practice repo.
 
-
+## Purpose
+Soe dummy text abcdefghjtreew
