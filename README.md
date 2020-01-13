@@ -7,12 +7,12 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Introduction
-Git practice repo.
+hi. conflict
 
 ## Purpose
 Soe dummy text argksjdk
 
 ## Deployment
-Hello
+hi. conflict
 
 ##Copyright Notice
