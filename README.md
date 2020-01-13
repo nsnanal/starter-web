@@ -4,15 +4,15 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Conflit changes::::Sample website with plenty of files for demos
 
 ## Introduction
-Git practice repo.
+Git practice Dummy text.
 
 ## Purpose
 Soe dummy text argksjdk
 
 ## Deployment
-Hello
+Hello::Hi test test.
 
 ##Copyright Notice
