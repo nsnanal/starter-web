@@ -13,6 +13,7 @@ hi. conflict
 Soe dummy text argksjdk
 
 ## Deployment
-conflict created.
+conflict++
+conflict new
 
 ##Copyright Notice
