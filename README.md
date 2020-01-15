@@ -14,6 +14,5 @@ Soe dummy text argksjdk
 
 ## Deployment
 added text for master branch.
-added more text for master branch.
 
 ##Copyright Notice
