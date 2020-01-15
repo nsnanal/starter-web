@@ -13,6 +13,7 @@ hi. conflict
 Soe dummy text argksjdk
 
 ## Deployment
-Hi.
+added text for master branch.
+added more text for master branch.
 
 ##Copyright Notice
